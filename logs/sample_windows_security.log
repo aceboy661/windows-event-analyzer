@@ -1,0 +1,8 @@
+ct 28 08:14:22 WIN-SERVER Security 4625: Failed logon - Account: Administrator Source IP: 203.0.113.50
+Oct 28 08:14:25 WIN-SERVER Security 4625: Failed logon - Account: Administrator Source IP: 203.0.113.50
+Oct 28 08:14:28 WIN-SERVER Security 4625: Failed logon - Account: admin Source IP: 203.0.113.50
+Oct 28 08:14:31 WIN-SERVER Security 4625: Failed logon - Account: Administrator Source IP: 203.0.113.50
+Oct 28 08:14:35 WIN-SERVER Security 4625: Failed logon - Account: guest Source IP: 203.0.113.50
+Oct 28 08:22:10 WIN-SERVER Security 4624: Successful logon - Account: john Source IP: 192.168.1.15
+Oct 28 08:30:45 WIN-SERVER Security 4625: Failed logon - Account: root Source IP: 198.51.100.77
+Oct 28 08:45:12 WIN-SERVER Security 4624: Successful logon - Account: sarah Source IP: 192.168.1.20
